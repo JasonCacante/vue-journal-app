@@ -5,7 +5,7 @@
       <EntryList />
     </div>
     <div class="col">
-      <route-view />
+      <router-view />
     </div>
   </div>
 </template>
